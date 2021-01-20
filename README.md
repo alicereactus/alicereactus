@@ -1,4 +1,3 @@
-## ABOUT ME
 ## Hi there! 👋 My name is Alice.
 * 😊 I'm responsible, motivated, easy-to-learn React Frontend Developer open to work now.
 * 😍 I like programming because it's interesting for me to create something, to make user interface alive and frirendly.
@@ -7,9 +6,12 @@
 * 🥅 My the 2021 goal is to become a cool React Frontend Developer.
 
 ## MY PROJECTS
+* [SOCIAL NETWORK](https://alicereactus.github.io/project-social-network-ts) Technology stack: React, TS, Redux, axios, CSS
+* [TODOLIST](https://alicereactus.github.io/project-todolist-ts) Technology stack: React, TS, Redux, axios, Material UI, storybook
+* [COUNTER WITH REDUX](https://alicereactus.github.io/project-counter-two-with-redux/) Technology stack: React, Redux, TS, CSS
+* [COUNTER WITH HOOKS](https://alicereactus.github.io/project-counter-two-with-hooks/) Technology stack: React (hooks), TS, CSS
 
-
-## MY LANGUAGES AND TOOLS
+## MY TECHNOLOGY STACK AND TOOLS
 ![React](/svg/react.svg)
 ![Redux](/svg/redux.svg)
 ![JS](/svg/JS.svg)
