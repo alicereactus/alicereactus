@@ -8,8 +8,9 @@
 ## MY PROJECTS
 * [SOCIAL NETWORK](https://alicereactus.github.io/project-social-network-ts) Technology stack: React, TS, Redux, axios, CSS
 * [TODOLIST](https://alicereactus.github.io/project-todolist-ts) Technology stack: React, TS, Redux, axios, Material UI, storybook
-* [COUNTER WITH REDUX](https://alicereactus.github.io/project-counter-two-with-redux/) Technology stack: React, Redux, TS, CSS
-* [COUNTER WITH HOOKS](https://alicereactus.github.io/project-counter-two-with-hooks/) Technology stack: React (hooks), TS, CSS
+* [COUNTER WITH SETTINGS (REDUX)](https://alicereactus.github.io/project-counter-two-with-redux/) Technology stack: React, Redux, TS, CSS
+* [COUNTER WITH SETTINGS (HOOKS)](https://alicereactus.github.io/project-counter-two-with-hooks/) Technology stack: React (hooks), TS, CSS
+* [COUNTER WITHOUT SETTINGS (HOOKS)](https://alicereactus.github.io/project-counter-one/) Technology stack: React (hooks), TS, CSS
 
 ## MY TECHNOLOGY STACK AND TOOLS
 ![React](/svg/react.svg)
